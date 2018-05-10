@@ -1,0 +1,14 @@
+<Switch xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/switchForActionBar"
+    android:padding="15dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textOn="ON"
+    android:thumb="@drawable/custom_switch_color"
+    android:track="@drawable/custom_track"
+    android:textOff="OFF"
+    android:textColor="#317f2c"
+    android:layout_centerHorizontal="true">
+
+
+</Switch>

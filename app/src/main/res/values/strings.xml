@@ -1,0 +1,196 @@
+<resources>
+    <string name="app_name">CabDriver</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Traveller!</string>
+    <string name="slide_1_desc">The easiest way to book car from this app!</string>
+
+    <string name="slide_2_title">Every station</string>
+    <string name="slide_2_desc">Travel with your friend and familly all time!</string>
+
+    <string name="slide_3_title">Live location</string>
+    <string name="slide_3_desc">live location every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <!--spinner-->
+    <string name="country_name">Choose a country</string>
+    <string-array name="countries">
+        <item>Country</item>
+        <item>India</item>
+        <item>London</item>
+        <item>USA</item>
+        <item>Burma</item>
+        <item>China</item>
+        <item>Malaysia</item>
+        <item>singapore</item>
+        <item>Italy</item>
+        <item>Russia</item>
+    </string-array>
+    <string name="state_name">Choose a state</string>
+    <string-array name="state">
+        <item>State</item>
+        <item>India</item>
+        <item>London</item>
+        <item>USA</item>
+        <item>Burma</item>
+        <item>China</item>
+        <item>Malaysia</item>
+        <item>singapore</item>
+        <item>Italy</item>
+        <item>Russia</item>
+    </string-array>
+    <string name="city_name">Choose a city</string>
+    <string-array name="city">
+        <item>City</item>
+        <item>India</item>
+        <item>London</item>
+        <item>USA</item>
+        <item>Burma</item>
+        <item>China</item>
+        <item>Malaysia</item>
+        <item>singapore</item>
+        <item>Italy</item>
+        <item>Russia</item>
+    </string-array>
+    <string name="car_name">Choose a city</string>
+    <string-array name="car">
+        <item>Honda</item>
+        <item>Accent</item>
+        <item>i10</item>
+        <item>Esteem</item>
+        <item>Toyota innova</item>
+        <item>Zen</item>
+        <item>Swift desire</item>
+        <item>Dustor</item>
+        <item>Creata</item>
+        <item>Auto rickshaw</item>
+    </string-array>
+
+    <string name="ln_name">Choose a city</string>
+    <string-array name="languagechange">
+        <item>English</item>
+        <item>हिंदी</item>
+        <item>ગુજરાતી</item>
+
+    </string-array>
+
+
+    <!--login screen -->
+
+    <string name="forgotpass"><u>Forgot Password</u></string>
+    <string name="signinbutton">Sign In</string>
+    <string name="signupbutton">Sign Up</string>
+    <string name="termcondition">I accept term and condition</string>
+    <string name="notregi">Not Registered...?</string>
+    <string name="copyright">Copyright@2017</string>
+
+       <!--edittext hint -->
+      <string name="username">Enter username</string>
+      <string name="password">Enter password</string>
+
+    <!--Registration page-->
+
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="pincode">Zipcode</string>
+    <string name="passwordd">Password</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="nextt">Next</string>
+
+    <!--registration page 2-->
+    <string name="car_pic">Upload Car Photo</string>
+    <string name="driving_license">Upload Driving License</string>
+    <string name="driving_license_expiry">Driving License Expiry Date </string>
+    <string name="driving_license_plate">Car Plate Number </string>
+    <string name="driving_insurence">Insurance</string>
+    <string name="insurance">Insurance</string>
+    <string name="car_model">Car Model</string>
+    <string name="car_type">Car Type</string>
+    <string name="seating_capacity">Seating Capacity</string>
+    <string name="ac">AC</string>
+    <string name="noneac">Non-AC</string>
+    <string name="two">4</string>
+    <string name="four">6</string>
+    <string name="six">7</string>
+    <string name="eight">More</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="submit">Submit</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="dialog_select_gallery">Gallery</string>
+    <string name="dialog_select_prompt">Choose a picture</string>
+    <string name="image_picker_error">Something is wrong with that image. Pick a different one please.</string>
+
+
+    <!--EditProfile-->
+    <string name="currentpass">Current password</string>
+    <string name="newpass">New password</string>
+    <string name="change">Change</string>
+
+    <!--DashBoard-->
+    <string name="rates">Add/Change rates</string>
+    <string name="trip_history">Trip History</string>
+    <string name="recharge">Recharge</string>
+    <string name="gps_enable">Enable/Disable GPS Location</string>
+    <string name="txt_warnnn">You dont have any active booking</string>
+
+    <!--add rate-->
+    <string name="minimum">Minimum Rate</string>
+    <string name="r_km">Rate Per KM</string>
+    <string name="r_hour">Rate Per Hour</string>
+    <string name="r_day">Rate Per Day</string>
+
+    <!--Navigation drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string><!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Active Booking</string>
+    <string name="nav_photos">Booking History</string>
+    <string name="nav_movies">Change Rates</string>
+    <string name="nav_recharge">Recharge</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">Exit</string><!-- Toolbar titles when navigation menu item is selected
+--><string-array name="nav_item_activity_titles">
+    <item>Active Booking</item>
+    <item>Booking History</item>
+    <item>Change rates</item>
+    <item>Notifications</item>
+    <item>Settings</item>
+</string-array>
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <!--MapActivity-->
+    <string name="title_activity_maps">Map</string>
+
+    <!--Fetch Address-->
+    <string name="no_geocoder_available">No geocoder available</string>
+
+    <string name="fetch_address">Fetch address</string>
+
+    <string name="address_found">Address found</string>
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+</resources>
